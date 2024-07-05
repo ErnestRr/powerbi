@@ -14,4 +14,6 @@ Calificación promedio por barrio.
 Datos de http://insideairbnb.com/mexico-city. 📊🏙️
 
 [Ver reporte](https://app.powerbi.com/view?r=eyJrIjoiMzY2NjJhZGMtYjkxNC00Y2QxLWEwMDItOGQ2ZWU1MDM5ZWQ0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
-![AIRBNBIMAGEN](https://github.com/ErnestRr/powerbi/assets/108312348/e0856f6e-d467-4c5d-9a98-71677a57b679)
+
+![AIRBNBIMAGEN](https://github.com/ErnestRr/powerbi/assets/108312348/7a1fd9cc-4091-4db8-a0fa-c8efadc642aa)
+
