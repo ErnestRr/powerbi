@@ -11,6 +11,6 @@ Se analiza tasa de contagio y mortalidad por continente y país.
 Identifico países con más recuperados y su tasa de recuperación respecto a datos acumulados.
 Examinamos tendencia diaria de casos y tasa de mortalidad por país. 📉🔬
 
-[Ver reporte]([https://app.powerbi.com/view?r=example](https://app.powerbi.com/view?r=eyJrIjoiMDAyNWU4ODktZmE1NC00Mjk4LWExYTMtMWJjZWRmYmNhMDFmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection))
+[Ver reporte](https://app.powerbi.com/view?r=eyJrIjoiMDAyNWU4ODktZmE1NC00Mjk4LWExYTMtMWJjZWRmYmNhMDFmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)
 
 ![COVID IMAGEN](https://github.com/ErnestRr/powerbi/assets/108312348/21f697e2-3678-42c9-ae35-3cdf22d9d674)
