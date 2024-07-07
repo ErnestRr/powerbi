@@ -21,7 +21,7 @@ Crecimiento Anual de Delitos 📈📉
 
 El aumento delictivo en 2022 requiere acciones efectivas. Datos del Sistema Nacional de Seguridad Pública son vitales para moldear políticas y estrategias de seguridad.
 
-[Ver Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTY3MzU2ZTUtMmY1Ni00ZTUxLWE4NGQtZTVjMjNkN2I4NDk0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+[Ver reporte](https://app.powerbi.com/view?r=eyJrIjoiMTY3MzU2ZTUtMmY1Ni00ZTUxLWE4NGQtZTVjMjNkN2I4NDk0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ![delitos](https://github.com/ErnestRr/powerbi/assets/108312348/44212df1-5974-4747-9669-42c2a1d9d7ce)
 
